@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @felipefigueira, 25y, Brazilian
-- 👀 I’m interested in Full Stack Web Development 
+- 💞️ I’m interested in Full Stack Web Development 
 - 🌱 I’m currently learning Responsive Web Design
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m looking to collaborate on projects
 - 📫 How to reach me: felipemmfigueira@protonmail.com
 
 <!---
